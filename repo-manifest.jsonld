@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/spatialaudio/sciospecgui/commit/eb73b836062fae85096d25ea728e40b213b4fd86",
       "git:hexsha": "eb73b836062fae85096d25ea728e40b213b4fd86",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T17:13:32.614121+00:00"
     }
   ]
 }
