@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "spatialaudio",
+  "repo": "sciospecgui",
+  "versions": [
+    {
+      "commit": "eb73b836062fae85096d25ea728e40b213b4fd86",
+      "parsed_at": "2026-10-28T17:10:50.037814+00:00",
+      "filetree": "filetree/eb73b836062fae85096d25ea728e40b213b4fd86.nq.gz",
+      "blobs": [
+        "blob/98e7a921155314c15f47d124d35423905b04e068.nq.gz",
+        "blob/2c8342ae0378bdbe4065fadec4713bdc6648e0d0.nq.gz",
+        "blob/a1a918c155ab6b4343c3146cbf84a76fd1aa18de.nq.gz",
+        "blob/e2e434fddb4cb5e764a83167a8f72b3d7fb4e3e3.nq.gz",
+        "blob/214989141b0aed8c2cfda9d9ee13a7fe8f09447c.nq.gz",
+        "blob/aa9b00fc4cd87d3cb0af6a8d8f49994b5fc7f128.nq.gz",
+        "blob/857623a9304fd730cd3e3c1ed945b8f706240f1d.nq.gz",
+        "blob/f7b07b38197b7c012996f24621e05a99c006622c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
