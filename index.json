@@ -1,0 +1,11 @@
+{
+  "org": "spatialaudio",
+  "repo": "sciospecgui",
+  "versions": [
+    {
+      "commit": "eb73b836062fae85096d25ea728e40b213b4fd86",
+      "tag": "",
+      "parsed_at": "2026-10-28T17:13:32.614542+00:00"
+    }
+  ]
+}
